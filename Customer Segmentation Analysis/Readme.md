@@ -21,6 +21,13 @@ The analysis provides insights into customer segmentation based on their buying 
 Recency vs. Monetary: Cluster 1 consists of customers with higher recency and monetary values, while Cluster 2 has lower recency and higher monetary values. Cluster 0 represents customers with lower recency and monetary values.
 Recency vs. Frequency: Cluster 1 includes customers with higher recency and frequency values, while Cluster 2 has lower recency and higher frequency values. Cluster 0 represents customers with lower recency and frequency values.
 Cluster Analysis with k=4:
+
   * Frequency vs. Monetary: Customers in Cluster 1 have higher frequency and lower monetary values, while customers in Cluster 2 have higher frequency and higher monetary values. Cluster 0 represents customers with lower frequency and monetary values, and Cluster 3 consists of customers with higher frequency and significantly higher monetary values.
 Recency vs. Monetary: Cluster 1 represents customers with higher recency and monetary values, Cluster 2 has lower recency and higher monetary values, and Cluster 3 represents customers with higher recency and significantly higher monetary values. Cluster 0 consists of customers with lower recency and monetary values.
 Recency vs. Frequency: Cluster 1 includes customers with higher recency and frequency values, Cluster 2 has lower recency and higher frequency values, and Cluster 3 represents customers with higher recency and frequency values.
+
+
+Contact Information 📞✉️
+If you have any questions or need further assistance, please feel free to contact me at ad180@myscc.ca I would be happy to help!
+
+Happy analyzing! 🚀🔍
